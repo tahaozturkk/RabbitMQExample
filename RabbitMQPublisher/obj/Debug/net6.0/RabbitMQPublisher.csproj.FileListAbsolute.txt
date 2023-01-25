@@ -1,0 +1,17 @@
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\obj\Debug\net6.0\RabbitMQPublisher.csproj.AssemblyReference.cache
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\obj\Debug\net6.0\RabbitMQPublisher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\obj\Debug\net6.0\RabbitMQPublisher.AssemblyInfoInputs.cache
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\obj\Debug\net6.0\RabbitMQPublisher.AssemblyInfo.cs
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\obj\Debug\net6.0\RabbitMQPublisher.csproj.CoreCompileInputs.cache
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\bin\Debug\net6.0\RabbitMQPublisher.exe
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\bin\Debug\net6.0\RabbitMQPublisher.deps.json
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\bin\Debug\net6.0\RabbitMQPublisher.runtimeconfig.json
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\bin\Debug\net6.0\RabbitMQPublisher.dll
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\bin\Debug\net6.0\RabbitMQPublisher.pdb
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\obj\Debug\net6.0\RabbitMQPublisher.csproj.CopyComplete
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\obj\Debug\net6.0\RabbitMQPublisher.dll
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\obj\Debug\net6.0\refint\RabbitMQPublisher.dll
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\obj\Debug\net6.0\RabbitMQPublisher.pdb
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\obj\Debug\net6.0\RabbitMQPublisher.genruntimeconfig.cache
+D:\Users\oztur\source\repos\RabbitMQ\RabbitMQPublisher\obj\Debug\net6.0\ref\RabbitMQPublisher.dll
